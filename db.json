@@ -1,0 +1,32 @@
+{
+    "data":[
+        {
+            "id": "1",
+            "Product_image": "https://www.harley-davidson.com/content/dam/h-d/images/product-images/merchandise/2024/97451-24vm/97451-24VM_F.jpg?impolicy=myresize&rw=480",
+            "Title": "Men's At the Crank Bomber Jacket",
+            "Colors_Available": "2 colours available",
+            "color_selector1": "FALSE",
+            "color_selector2": "TRUE",
+            "Active-Colors": "Lapis Blue",
+            "category": "Men"
+        },
+        {
+            "id": "2",
+            "Product_image": "https://www.harley-davidson.com/content/dam/h-d/images/product-images/merchandise/2022/97405-23vm/97405-23VM_F.jpg?impolicy=myresize&rw=480",
+            "Title": "Men's Forever Harley Camo Jacket",
+            "category": "Men"
+        },
+        {
+            "id": "3",
+            "Product_image": "https://www.harley-davidson.com/content/dam/h-d/images/product-images/merchandise/2022/january-replenishment/womens/98108-22vr/98108-22VR_F.jpg?impolicy=myresize&rw=480",
+            "Title": "Rheon Labs Armor- Elbow/Knee",
+            "category": "Men"
+        },
+        {
+            "id": "4",
+            "Product_image": "https://www.harley-davidson.com/content/dam/h-d/images/product-images/merchandise/2024/98198-24vm/98198-24VM_F.jpg?impolicy=myresize&rw=480",
+            "Title": "Men's H-D Flex Layering System Fleece Zip Mid Layer",
+            "category": "Men"
+        }
+    ]
+}
